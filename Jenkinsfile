@@ -1,4 +1,4 @@
-5@Library('Shared') _
+@Library('Shared') _
 pipeline {
     agent {label 'Node'}
     
