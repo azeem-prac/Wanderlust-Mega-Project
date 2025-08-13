@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: azeem501/wanderlust-frontend:v2.2
+          image: azeem501/wanderlust-frontend:v2
           ports:
             - containerPort: 5173
 ---
